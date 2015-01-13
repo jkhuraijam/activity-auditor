@@ -6,6 +6,8 @@ A Clojure library designed to monitor a [SQS] (http://aws.amazon.com/sqs/) queue
 
 To run, simply pass the environment name as a parameter:
 
+install lien from here http://leiningen.org/#install
+
 ```el
 $> lein run dev
 ```
